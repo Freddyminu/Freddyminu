@@ -5,7 +5,7 @@
   <p>Linkedin</p>
 </a><br>
 
-I'm Frederico Minuzzi, i'm a fullstack developer, here i can learn programing languages and i'm very excited to learn more and more!
+I'm Frederico Minuzzi, i'm a fullstack developer, here i can learn programing languages and i'm very excited to learn more!
 
 - 👨🏽‍💻 Hello!
 - 🌱 I’m working to learn more about JavaScript in specific, React and Node.
