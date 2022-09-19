@@ -1,4 +1,4 @@
-### Hi there 
+### Hello there 
 
 <a href="https://www.linkedin.com/in/frederico-minuzzi-20200416a/">
   <img align="left" alt="Minuzzi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -26,6 +26,8 @@ I'm Frederico Minuzzi, i'm a fullstack developer, here i can learn programing la
 <code><img height="60" src="https://user-images.githubusercontent.com/206748/47260428-c1313300-d4bb-11e8-97a6-f52538951811.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
+
+<code><img height="60" src="https://pbs.twimg.com/profile_images/690207449471582208/LJ_Gsz28_400x400.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
