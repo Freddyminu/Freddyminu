@@ -33,7 +33,7 @@ I'm Frederico Minuzzi, i'm a fullstack developer, here i can learn programing la
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<br><br>
+<br>
 
 <img width="380" align="left" alt="in" src="https://github-readme-stats.vercel.app/api?username=freddyminu&show_icons=true&theme=radical&include_all_commits=true" />
 <br><br><br><br><br><br><br><br>
