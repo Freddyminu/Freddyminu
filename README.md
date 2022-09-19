@@ -18,6 +18,10 @@ I'm Frederico Minuzzi, i'm a fullstack developer, here i can learn programing la
 **Languages and Tools:**  <br>
 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<code><img height="60" src="https://icon-icons.com/icon/c-original-logo/146611"></code>
+<code><img height="60" src="https://github.com/FortAwesome/Font-Awesome/issues/14021"></code>
+
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="60" src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"></code>
