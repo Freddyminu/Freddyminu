@@ -17,12 +17,12 @@ I'm Frederico Minuzzi, i'm a fullstack developer, here i can learn programing la
 
 **Languages and Tools:**  <br>
 
+<code><img height="60" src="https://iconape.com/wp-content/png_logo_vector/c-programming-language-logo.png"></code>
+<code><img height="60" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="60" src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"></code>
-<code><img height="60" src="https://iconape.com/wp-content/png_logo_vector/c-programming-language-logo.png"></code>
-<code><img height="60" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
 
 <code><img height="60" src="https://toppng.com/uploads/preview/mongo-db-design-mongodb-logo-mongodb-11562879783bwj2cknalk.png"></code>
 <code><img height="60" src="https://user-images.githubusercontent.com/206748/47260428-c1313300-d4bb-11e8-97a6-f52538951811.png"></code>
