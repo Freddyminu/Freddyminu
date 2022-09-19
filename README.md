@@ -8,7 +8,7 @@
 I'm Frederico Minuzzi, i'm a fullstack developer, here i can learn programing languages and i'm very excited to learn more and more!
 
 - 👨🏽‍💻 Hello!
-- 🌱 I’m working in become a React native developer.
+- 🌱 I’m working to learn more about JavaScript in specific, React and Node.
 - 🤔 My interests are with learn new programing languages and pratice my hard and soft skills.
 - 💼 I’m Software Developer searching for a job.
 - 💬 Ask me about anything, I am happy to help.
