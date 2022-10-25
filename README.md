@@ -5,12 +5,12 @@
   <p>Linkedin</p>
 </a><br>
 
-I'm Frederico Minuzzi, i'm a fullstack developer, here i can learn programing languages and i'm very excited to learn more!
+I'm Frederico Minuzzi, i'm a Software developer at Tago.io, here i can learn programing languages and i'm very excited to learn more!
 
 - 👨🏽‍💻 Hello!
 - 🌱 I’m working to learn more about JavaScript in specific, React and Node.
 - 🤔 My interests are with learn new programing languages and pratice my hard and soft skills.
-- 💼 I’m Software Developer searching for a job.
+- 💼 I’m Software Developer working at Tago.io! :)
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via freddyminu@gmail.com to me.
 - 📝 For more information contact me!.
