@@ -5,12 +5,12 @@
   <p>Linkedin</p>
 </a><br>
 
-I'm Frederico Minuzzi, i'm a Software developer at Tago.io, here i can learn programing languages and i'm very excited to learn more!
+I'm Frederico Minuzzi, I'm a Software developer at TagoIO!
 
 - 👨🏽‍💻 Hello!
 - 🌱 I’m working to learn more about JavaScript in specific, React and Node.
 - 🤔 My interests are with learn new programing languages and pratice my hard and soft skills.
-- 💼 I’m Software Developer working at Tago.io! :)
+- 💼 I’m Software Developer working at TagoIO! :)
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via freddyminu@gmail.com to me.
 - 📝 For more information contact me!.
@@ -21,7 +21,6 @@ I'm Frederico Minuzzi, i'm a Software developer at Tago.io, here i can learn pro
 <code><img height="60" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="60" src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"></code>
 
 <code><img height="60" src="https://toppng.com/uploads/preview/mongo-db-design-mongodb-logo-mongodb-11562879783bwj2cknalk.png"></code>
